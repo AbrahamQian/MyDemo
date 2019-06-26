@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\MyDemo\Backend\bin\Debug\Backend.exe.config
+C:\Users\Administrator\Desktop\MyDemo\Backend\bin\Debug\Backend.exe
+C:\Users\Administrator\Desktop\MyDemo\Backend\bin\Debug\Backend.pdb
+C:\Users\Administrator\Desktop\MyDemo\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MyDemo\Backend\obj\Debug\Backend.exe
+C:\Users\Administrator\Desktop\MyDemo\Backend\obj\Debug\Backend.pdb
